@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LivrariaAPI.Models
 {
-    public class Produto
+    public class Livro
     {
         public string ID { get; set; }
         public string Nome { get; set; }
